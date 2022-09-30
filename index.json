@@ -119,5 +119,15 @@
     "rating":"5/5",
     "date":"30/09/2022"
     }
+     {
+    "id":14,
+    "institute_name": "Indian Institue of Technology, Kharagpur",
+    "location":"India",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the topmost college of India",
+    "rating":"5/5",
+    "date":"30/09/2022"
+    }
 
 ]
